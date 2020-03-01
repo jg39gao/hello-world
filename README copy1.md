@@ -1,3 +1,4 @@
+--- conflict2 solved . 15:23 
 - conflict2 something added 14:58 at dev
 
 ---conflict ever . keep them all. 
