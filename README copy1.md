@@ -1,4 +1,7 @@
+---conflict ever . keep them all. 
 # master change ignore others 14:48
+add somthing conflict 14:48
+
 # i will add something here 14:44 
 # Welcome to GitHub
 
