@@ -1,5 +1,6 @@
+--- conflict2 solved . 15:23 
+- conflict2 something added 14:58 at dev
 
-add something here . 
 ---conflict ever . keep them all. 
 # master change ignore others 14:48
 add somthing conflict 14:48
